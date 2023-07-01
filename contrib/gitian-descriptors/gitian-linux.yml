@@ -28,8 +28,9 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/drivechain-project/sidechains.git"
-  "dir": "sidechains"
+- "url": "https://github.com/CheemsCommander/BitAssets.git""
+  "dir": "BitAssets"
+
 files: []
 script: |
 
